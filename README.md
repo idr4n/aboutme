@@ -55,5 +55,5 @@ These are the frameworks or technologies I have worked with:
 
 ## Contact Me 🤙
 
-Feel free to open an issue on this repository or drop me a line at `idur477@gmail.com`.
+Feel free to ask me anything or leave a comment ([here in this repo](https://github.com/idr4n/aboutme/issues/new/choose)), or drop me a line at `idur477@gmail.com`.
 
