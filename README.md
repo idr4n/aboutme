@@ -2,12 +2,12 @@
 
 Hi, my name is Ivan and I am an aspiring full-stack developer, currently looking for the opportunity to change my career and make the jump into the software development industry.
 
-- [General description](#general-description)
-- [Programming languages](#programming-languages)
-- [Projects](#projects)
-- [Technologies/Frameworks](#technologies/frameworks)
-- [Education](#education)
-- [Contact Me](#contact-me)
+- [General description](#general-description-)
+- [Programming languages](#programming-languages-)
+- [Projects](#projects-)
+- [Technologies/Frameworks](#technologies/frameworks-)
+- [Education](#education-)
+- [Contact Me](#contact-me-)
 
 ## General Description
 
