@@ -21,9 +21,9 @@ These are the programming languages I have worked with so far:
 - Python: I am an Economist currently working in academia, and so I have used Python for data analysis. It was also my first programming language to learn about OOP, and I have currently used it to write some of my scripts (e.g., [add_image_shadow.py](https://github.com/idr4n/.dotfiles/blob/master/scripts), [change_dark_mode.py](https://github.com/idr4n/.dotfiles/blob/master/scripts/change_dark_mode.py)), and to develop a couple of Sublime Text plugins.
 - JavaScript: a most for web development.
 - TypeScript: I am a big fan of statically typed languages, so I prefer to use TypeScript over JavaScript whenever I have the chance.
-- C++: used it in a Coursera course to learn more about OOP (certificate [here](https://www.coursera.org/account/accomplishments/verify/4QJM3K79ZS9D) .
-- Go: I'm familiar with the basics of the language, and I have used it lately going through one of Udemy's courses ([link](https://www.udemy.com/course/building-modern-web-applications-with-go/) ).
-- Java: I have used it going through another course on OOP in [Edx](https://www.edx.org/course/introduction-to-java-programming-ii-object-oriented-programming) I am enrolled in.
+- C++: learned the basics of the language in a Coursera course about OOP (certificate [here](https://www.coursera.org/account/accomplishments/verify/4QJM3K79ZS9D)).
+- Go: I am familiar with the basics of the language, and I have used it lately going through one of [Udemy courses](https://www.udemy.com/course/building-modern-web-applications-with-go/).
+- Java: I am currently using it while going through another course on OOP in [Edx](https://www.edx.org/course/introduction-to-java-programming-ii-object-oriented-programming) I am enrolled in.
 - Rust: went through [The Book](https://doc.rust-lang.org/book/) to learn the basics of the language.
 - Lua: I use it to configure [Neovim](https://github.com/idr4n/nvim-lua) (my current text editor) and [Hammerspoon](https://github.com/idr4n/.dotfiles#hammerspoon-setup).
 
@@ -46,7 +46,7 @@ These are the frameworks or technologies I have worked with:
 - React: I have been learning React for quite a while and it is the front-end framework I am most familiar with. I have used it in some of my personal projects.
 - Other front-end frameworks: I have had some exposure (a.k.a played around with) Svelte and Vue.
 - NodeJS: the back-end environment I am most familiar with. I have used it going through a couple of Udemy courses.
-- Other back-end technologies: I am currently learning to use Go for web development.
+- Other back-end technologies: I am currently learning how to use Go for web development.
 
 ## Education 📚
 
