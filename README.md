@@ -1,6 +1,6 @@
 # About Me 😎
 
-Hi, my name is Ivan and I am an aspiring full-stack developer, currently looking for the opportunity to change my career and make the jump into the software development industry.
+Hi, my name is Ivan and I am a self-taught aspiring full-stack developer, currently looking for the opportunity to change my career and make the jump into the software development industry.
 
 - [General description](#general-description)
 - [Programming languages](#programming-languages-)
@@ -34,6 +34,7 @@ These are some of my hobby projects as the result of my own personal interest an
 - BList: a React and Firebase web app to store and retrieve your own bookmarks using the keyboard. In early development.
 - [Spacexapp](https://github.com/idr4n/spacexapp): simple React app using the SpaceX API.
 - [Starwarsapi](https://github.com/idr4n/starwarsapi): a simple React app using the Star Wars API and Semantic UI.
+- [Gatsby-bootcamp](https://github.com/idr4n/gatsby-bootcamp): A simple blog app using Gatsby.
 - [OpenRecent](https://github.com/idr4n/OpenRecent): a Sublime Text plugin to open recent files and folders.
 - [SublimeFind](https://github.com/idr4n/SublimeFind): a Sublime Text plugin that incorporates the output of `fd` and `rg` commands.
 - [PathAutocomplete](https://github.com/idr4n/PathAutocomplete): a Sublime Text plugin for path auto-completion.
