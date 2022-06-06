@@ -1,4 +1,4 @@
-# About Me 😎
+# About Me 😎 
 
 Hi, my name is Ivan and I am a self-taught aspiring full-stack developer, currently looking for the opportunity to change my career and make the jump into the software development industry.
 
@@ -51,10 +51,10 @@ These are the frameworks or technologies I have worked with:
 
 ## Education 📚
 
-- PhD in Applied Economics (Western Michigan University - Go Broncos 💪).
+- PhD in Applied Economics (Western Michigan University - Go Broncos 💪🏻).
 - Bachelors in International Business and Economics (Universidad EAFIT).
 
-## Contact Me 🤙
+## Contact Me 🤙🏻 
 
 Feel free to ask me anything or leave a comment ([here in this repo](https://github.com/idr4n/aboutme/issues/new/choose)), or drop me a line at `idur477@gmail.com`.
 
