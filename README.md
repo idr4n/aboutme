@@ -1,6 +1,6 @@
 # About Me 😎 
 
-Hi, my name is Ivan and I am a self-taught aspiring full-stack developer, currently looking for the opportunity to change my career and make the jump into the software development industry.
+Hi, my name is Ivan and I am a self-taught aspiring full-stack developer currently looking for the opportunity to change my career and make the jump into the software development industry.
 
 - [General description](#general-description)
 - [Programming languages](#programming-languages-)
@@ -11,7 +11,7 @@ Hi, my name is Ivan and I am a self-taught aspiring full-stack developer, curren
 
 ## General Description
 
-Front and back-end knowledge with experience in technologies such as React and NodeJS. Good knowledge of Object Oriented Programming (OOP) principles. Amicable and cooperative with a team-work spirit. Passionate about technology and software development.
+Front and back-end knowledge with experience in technologies such as React and NodeJS. Good understanding of Object-Oriented Programming (OOP) principles. Amicable and cooperative with a teamwork spirit. Passionate about technology and software development.
 
 ## Programming languages 💻
 
@@ -29,7 +29,7 @@ These are the programming languages I have worked with so far:
 
 ## Projects 📽
 
-These are some of my hobby projects as the result of my own personal interest and going through coding tutorials.
+These are some of my hobby projects as the result of my interest and going through coding tutorials:
 
 - [BList](https://github.com/idr4n/blist): a React and Firebase web app to store and retrieve bookmarks using the keyboard. In early development.
 - [Spacexapp](https://github.com/idr4n/spacexapp): simple React app using the SpaceX API.
@@ -44,7 +44,7 @@ These are some of my hobby projects as the result of my own personal interest an
 
 These are the frameworks or technologies I have worked with:
 
-- React: I have been learning React for quite a while and it is the front-end framework I am most familiar with. I have used it in some of my personal projects.
+- React: I have been learning React for quite a while and it is the front-end framework I am most familiar with. I have used it in some of my projects.
 - Other front-end frameworks: I have had some exposure (a.k.a played around with) Svelte and Vue.
 - NodeJS: the back-end environment I am most familiar with. I have used it going through a couple of Udemy courses.
 - Other back-end technologies: I am currently learning how to use Go for web development.
