@@ -31,7 +31,7 @@ These are the programming languages I have worked with so far:
 
 These are some of my hobby projects as the result of my own personal interest and going through coding tutorials.
 
-- BList: a React and Firebase web app to store and retrieve your own bookmarks using the keyboard. In early development.
+- [BList](https://github.com/idr4n/blist): a React and Firebase web app to store and retrieve bookmarks using the keyboard. In early development.
 - [Spacexapp](https://github.com/idr4n/spacexapp): simple React app using the SpaceX API.
 - [Starwarsapi](https://github.com/idr4n/starwarsapi): a simple React app using the Star Wars API and Semantic UI.
 - [Gatsby-bootcamp](https://github.com/idr4n/gatsby-bootcamp): A simple blog app using Gatsby.
