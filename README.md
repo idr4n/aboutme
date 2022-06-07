@@ -61,5 +61,5 @@ Since I graduated, I have worked in academia, which involves teaching and doing 
 
 ## Contact Me 🤙🏻 
 
-Feel free to ask me anything or leave a comment ([here in this repo](https://github.com/idr4n/aboutme/issues/new/choose)), or drop me a line at `idur477@gmail.com`.
+Feel free to ask me anything or leave a comment ([here in this repo](https://github.com/idr4n/aboutme/issues/new/choose)), or drop me a line at `idur477@gmail.com`. **You can download my CV** [here](https://github.com/idr4n/aboutme/blob/master/CV/CV.pdf).
 
