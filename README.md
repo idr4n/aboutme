@@ -7,6 +7,7 @@ Hi, my name is Ivan and I am a self-taught aspiring full-stack developer current
 - [Projects](#projects-)
 - [Technologies/Frameworks](#technologiesframeworks-)
 - [Education](#education-)
+- [Work Experience](#work-experience-)
 - [Contact Me](#contact-me-)
 
 ## General Description
@@ -53,6 +54,10 @@ These are the frameworks or technologies I have worked with:
 
 - PhD in Applied Economics (Western Michigan University - Go Broncos 💪🏻).
 - Bachelors in International Business and Economics (Universidad EAFIT).
+
+## Work Experience 📈
+
+Since I graduated, I have worked in academia, which involves teaching and doing research. It has allowed me to develop strong analytical and interpersonal skills. I got interested in coding while writing statistics/econometrics programs in MatLab to run regressions and data analysis.
 
 ## Contact Me 🤙🏻 
 
